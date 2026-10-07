@@ -1,4 +1,4 @@
-Nombre: Piero
+Nombre: Piero tun tun sabor
 Curso: Taller de Construcción de Software
 
 Mi aporte:
