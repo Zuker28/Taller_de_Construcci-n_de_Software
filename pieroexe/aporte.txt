@@ -1,0 +1,6 @@
+Nombre: Piero
+Curso: Taller de Construcción de Software
+
+Mi aporte:
+Ejemplo de comandos Git utilizados en el proyecto.
+
